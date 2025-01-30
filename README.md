@@ -11,7 +11,7 @@
 
 | Platform       | Easy | Medium | Hard | Total |
 |----------------|------|--------|------|-------|
-| **LeetCode**   | 1    | Y      | Z    | 1 |
+| **LeetCode**   | 2    | Y      | Z    | 2 |
 | **HackerRank** | A    | B      | C    | A+B+C |
 
 ---
@@ -21,7 +21,7 @@
 ### LeetCode
 #### Easy
 1. **[Two Sum](https://leetcode.com/problems/two-sum/)** - [✅ Solved on DD/MM/YYYY]  
-2. **[Palindrome Number](https://leetcode.com/problems/palindrome-number/)** - [✅ Solved on DD/MM/YYYY]  
+2. **[Find Closest Number to Zero](https://leetcode.com/problems/find-closest-number-to-zero/)** - [✅ Solved on 30/01/2025]  
 
 
 #### Medium
@@ -63,7 +63,7 @@ Most companies ask algorithmic questions during interviews. While I can solve pr
 ├── 📁 leetcode/
 │   ├── 📁 easy/         # Solutions to LeetCode Easy problems
 │   │   ├── 📄 two_sum.py
-│   │   └── 📄 palindrome_number.py
+│   │   └── 📄 find_closest_number_to_zero.py
 │   ├── 📁 medium/       # Solutions to LeetCode Medium problems
 │   │   └── 📄 add_two_numbers.py
 │   └── 📁 hard/         # Solutions to LeetCode Hard problems
